@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/deekshantvaishn" target="blank"><img src="https://img.shields.io/twitter/follow/deekshantvaishn?logo=twitter&style=for-the-badge" alt="deekshantvaishn" /></a> </p>
 
-- 🔭 I’m currently working on **Nordstrom**
+- 🔭 I’m currently working on **ResumeBee** [An open source project]
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 📝 I regularly write articles on [https://medium.com/@deekshant57](https://medium.com/@deekshant57)
+- 📝 I write articles on [https://medium.com/@deekshant57](https://medium.com/@deekshant57) at times
 
 - 💬 Ask me about **React, Javascript, Redux, Hooks, Express, Node**
 
